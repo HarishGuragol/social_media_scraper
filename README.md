@@ -16,7 +16,7 @@
 #Files:
 
     --> Chromedriver.exe : Web driver by chrome.
-    --> Input: urls.txt : -> Store the creditionals of the linkedln account
+    --> Input: user_pwd.txt : -> Store the creditionals of the linkedln account
     --> Input: link.txt : -> Store the url link of the profile whose data has to be  scraped.
     --> Output: result.txt : -> Store the details of the data scraped.
 
